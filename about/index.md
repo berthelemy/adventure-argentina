@@ -4,6 +4,7 @@ longTitle: About Argentine Adventures
 description: 
 layout: default
 permalink: /about/
+header-image: images/aa/panoramic_photo_with_lee.jpg
 ---
 
 Argentine Adventures was founded by Lee Myers who simply wanted to share his love of the beautiful mountains and rainforest of Argentina with others. He has developed a range of guided walking and cycling options and aims to be able to offer 'an adventure for everyone'.

@@ -30,3 +30,5 @@ A typical adventure with us would include:
 - History &amp; music 
 - Geology
 - An Argentine barbeque
+
+All in the company of an experienced, qualified British mountain leader who has lived in Jujuy since 2012. 

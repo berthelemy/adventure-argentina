@@ -1,0 +1,15 @@
+name: Argentine Adventures
+description: Explore with us in the rainforest and mountains around Jujuy North West Argentina
+baseurl: '/argentine-adventures'
+keywords: walking, mountain biking, cycling, mountains, jungle, Jujuy, Argentina, Andes, rainforest
+
+url: "https://berthelemy.github.io"
+
+paginate: 10
+
+sass:
+    sass_dir: ./_scss
+
+include: ["_pages"]
+
+permalink: /:title/

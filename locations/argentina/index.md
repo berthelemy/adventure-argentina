@@ -16,7 +16,7 @@ A typical adventure with us would include:
 <img src="{{ site.baseurl }}/images/pixabay/iguazu-2773777_640.jpg" alt="Iguazu Falls" />
 <p>Iguazu Falls</p>
 <p>Image credit: <a href="https://pixabay.com/en/iguazu-iguacu-iguasu-falls-2773777/" target="_blank">Pixabay</a></p>
-</span
+</span>
 
 #### Sightseeing
 

@@ -59,3 +59,10 @@
 		input[type="submit"].special, input[type="reset"].special, input[type="button"].special, button.special, .button.special {
     background-color: #750a12;
 		}
+
+#flags {
+	display: inline;
+	margin-top: 3px;
+	margin-right:5px;
+	background-image: ../images/argentina-1460299_640.jpg;
+}

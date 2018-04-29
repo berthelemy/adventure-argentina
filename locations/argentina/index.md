@@ -13,9 +13,7 @@ A typical adventure with us would include:
 - Ascending into higher level desert terrain and mountains.
 
 <span class="image right">
-<img src="{{ site.baseurl }}/images/pixabay/iguazu-2773777_640.jpg" alt="Iguazu Falls" />
-<p>Iguazu Falls</p>
-<p>Image credit: <a href="https://pixabay.com/en/iguazu-iguacu-iguasu-falls-2773777/" target="_blank">Pixabay</a></p>
+<img src="{{ site.baseurl }}/images/pixabay/iguazu-2773777_640.jpg" alt="Iguazu Falls" />Iguazu Falls<br />Image credit: <a href="https://pixabay.com/en/iguazu-iguacu-iguasu-falls-2773777/" target="_blank">Pixabay</a>
 </span>
 
 #### Sightseeing

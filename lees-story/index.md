@@ -5,7 +5,7 @@ description:
 layout: default
 permalink: /lees-story/
 ---
-<span class="image left">
+<span class="image right">
 <img src="{{ site.baseurl }}/images/aa/foto_for_web_page.jpg" alt="Lee by a rock" />
 </span>
 

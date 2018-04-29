@@ -5,7 +5,12 @@ description: Explore with us in the rainforest and mountains around Jujuy in Nor
 layout: default
 permalink: /locations/argentina
 ---
-A typical adventure with us would include:
+A typical adventure with us could include:
+
+#### Welcome
+
+- Meeting you at the airport, and arranging connecting transport
+- Arranging local accommodation
 
 #### Trecking
 

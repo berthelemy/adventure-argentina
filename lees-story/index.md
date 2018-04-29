@@ -5,6 +5,9 @@ description:
 layout: default
 permalink: /lees-story/
 ---
+<span class="image left">
+<img src="{{ site.baseurl }}/images/aa/foto_for_web_page.jpg" alt="Lee by a rock" />
+</span>
 
 1995 was to bring about one of the greatest changes and greatest events of my life. I was attending a local Anglican Church when one evening during the service the notices were read out.
 

@@ -25,6 +25,10 @@ On that trip I saw the desert for the first time. WOW!!!! It was incredible! I i
 
 I also saw real poverty for the first time and my heart went out to them. I wanted to know them better and to know their stories of life. I made friends with so many people. I would never be the same again.
 
+<span class="image left">
+<img src="{{ site.baseurl }}/images/lee-nilda-976.JPG" alt="Lee and Nilda" />
+</span>
+
 I came home but longed to go back. Four years later I went back and there I met my wife Nilda; a beautiful Argentine girl who was working as a nurse amongst the indigenous peoples in Northern Argentina. We seemed to just click even though we didn't speak a word of each other's language.
 
 I came back to Britain and began to frantically learn Spanish, while Nilda began to learn English. We were two people with a purpose and so language learning, although not easy, came quickly. I returned to Argentina the following February and Nilda came to Britain in May of the same year and then we married in Jujuy, Argentina in August 2000.

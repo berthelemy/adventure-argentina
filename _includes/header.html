@@ -12,10 +12,8 @@
 			<div id="page-wrapper">
 
 				<!-- Header -->
-					<header id="header">
-						<h1><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-						<!-- Flags - if required:
-							<div id="flags"><img src="{{ site.baseurl }}/assets/images/argentina-1460299_640.jpg" width="80" alt="Argentine and UK flags" />&nbsp;<img src="{{ site.baseurl }}/assets/images/flag-2079064_640.jpg" width="80" alt="UK flag" /></div>
--->
-					{% include nav.html %}
+				<header id="header">
+						<h1><a id="site-logo" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/images/400dpiLogoCropped.png" width="100" alt="logo" /></a><a id="site-title" href="{{ site.baseurl }}/"> {{ site.name }}</a></h1>
+						{% include nav.html %}
 					</header>
+					

@@ -28,6 +28,18 @@
 		background-size: cover;
 	}
 
+#site-logo {
+	float: left;
+	padding-top:5px;
+	padding-right: 20px;
+}
+
+#site-title {
+		height: 100px;
+  line-height: 100px;
+  white-space: nowrap;
+  }
+
 	
 		.wrapper.style1 {
 			background-color: #464B52;
@@ -53,7 +65,7 @@
 
 
 		input[type="submit"].special:hover, input[type="reset"].special:hover, input[type="button"].special:hover, button.special:hover, .button.special:hover {
-    background-color: #464B52 !important;
+    background-color: #278BA0 !important;
 		}
 
 		input[type="submit"].special, input[type="reset"].special, input[type="button"].special, button.special, .button.special {

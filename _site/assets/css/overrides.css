@@ -1,0 +1,61 @@
+/* Main */
+
+	#main > header {
+		padding: 12em 0 10em 0 ;
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/aa/DSC03928.JPG");
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/aa/DSC03928.JPG");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/aa/DSC03928.JPG");
+		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/aa/DSC03928.JPG");
+		}
+
+/* Landing */
+
+	body.landing #page-wrapper {
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/aa/DSC03928.JPG");
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/aa/DSC03928.JPG");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/aa/DSC03928.JPG");
+		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/aa/DSC03928.JPG");
+		}
+
+	body.is-mobile.landing #banner,
+	body.is-mobile.landing .wrapper.style4 {
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/aa/DSC03928.JPG");
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/aa/DSC03928.JPG");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/aa/DSC03928.JPG");
+		background-image: linear-gradient(top, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../../images/aa/DSC03928.JPG");
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+
+	
+		.wrapper.style1 {
+			background-color: #750a12;
+			color: #d0c8a0;
+		}
+
+		.wrapper.style1 header.major p {
+			color: #d0c8a0;
+		}
+
+		.icon.style1 {
+		    color: #d0c8a0;
+		}
+
+		#menu {
+			background: #750a12;
+		}
+
+		#menu ul > li {
+    			border-top: solid 1px #d0c8a0;
+    		}
+
+
+
+		input[type="submit"].special:hover, input[type="reset"].special:hover, input[type="button"].special:hover, button.special:hover, .button.special:hover {
+    background-color: #9d283d !important;
+		}
+
+		input[type="submit"].special, input[type="reset"].special, input[type="button"].special, button.special, .button.special {
+    background-color: #750a12;
+		}

@@ -12,7 +12,7 @@ A typical adventure with us could include:
 - Meeting you at the airport, and arranging connecting transport
 - Arranging local accommodation
 
-#### Trecking
+#### Trekking
 
 - Exploring low level vegetated areas - even jungle - with idyllic waterfalls and warm, shallows rivers.
 - Ascending into higher level desert terrain and mountains.
